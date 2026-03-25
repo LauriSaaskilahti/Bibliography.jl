@@ -1,5 +1,4 @@
 # Bibliopgraphy.jl 
-(Keksi parempi nimi, koska tämä on geneerisempi)  
 
 Allows for writing source citations as inline code. E.g.:
 fuel_price = 0.64 u"€"/u"kg"  @cite("MyAcademicPaper et al. 2015")
